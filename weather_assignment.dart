@@ -3,7 +3,7 @@ import 'dart:async';
 // PART A: Future Functions
 Future<String> fetchCurrentWeather() async {
   await Future.delayed(Duration(seconds: 1));
-  return "Sunny";
+ s return "Sunny";
 }
 
 Future<int> fetchTemperature() async {
